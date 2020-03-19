@@ -1,2 +1,2 @@
-# demo_
+# Projects
 Computer vision and graphics
